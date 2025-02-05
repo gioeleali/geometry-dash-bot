@@ -6,7 +6,7 @@ from webserver import keep_alive
 import os
 from datetime import datetime
 
-TOKEN = '6297747001:AAHSdTC8IPEIhGW9fIt8M7hEbZQkGEG__98'
+TOKEN = 'YOUR TOKEN'
 GDB_API_URL = 'https://gdbrowser.com/api/'
 
 logging.basicConfig(
