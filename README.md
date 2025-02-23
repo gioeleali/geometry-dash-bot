@@ -1,5 +1,7 @@
 # Geometry Dash Bot 🤖
 
+![Geometry Dash Telegram Bot](banner.png)
+
 A Telegram bot developed to display Geometry Dash profile information using buttons and commands. It was hosted on Replit for a short period.  
 
 ## Features  
